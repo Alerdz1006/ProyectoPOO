@@ -16,14 +16,12 @@ Sistema de caja registradora con interfaz gráfica desarrollado en Java como pro
 
 ## Estructura del proyecto
 
-ProyectoPOO/
-├── src/
-│ ├── Main.java # Ventana principal
-│ ├── Producto.java # Modelo de producto
-│ ├── Carrito.java # Lógica del carrito
-│ └── Ticket.java # Generador de tickets
-
----
+- ProyectoPOO/
+- ├── src/
+- │ ├── Main.java # Ventana principal
+- │ ├── Producto.java # Modelo de producto
+- │ ├── Carrito.java # Lógica del carrito
+- │ └── Ticket.java # Generador de tickets
 
 ---
 
